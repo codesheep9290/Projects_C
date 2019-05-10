@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> 
 #include <string.h>
-//./a.out /Users/alyssadelacruz/Downloads/A5-smProperties.txt
+
 struct inventory_def
 {
 	char itemName[20];
