@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 int getUserChoice();
 int getShift();
@@ -141,7 +142,7 @@ int isValidChar(char c)
 void isValidStr(char buf[])
 {
 	int i; 
-	int strSize = strLen(buf); 
+	int strSize = strlen(buf); 
 
 	for (i = 0; i <= strSize; ++i)
 	{
