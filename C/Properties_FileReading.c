@@ -4,6 +4,7 @@
 
 #define OWNERS 2
 
+// more file reading exercise using rental samples 
 struct prop_def
 {
 	char type[20];
