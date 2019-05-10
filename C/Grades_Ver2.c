@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//Version 2 of grades but utilizing the file reading function
+
 //./a.out /Users/alyssadelacruz/Documents/DSU_Alyssa/SPRING2018/CSC250/A3b-smallgrades.txt
 
 void printStudents(int n, char studentName[n][20]);
