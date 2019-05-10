@@ -1,4 +1,2 @@
 # SchoolProjects
-School assignments and projects 
-Java
-C
+School assignments and projects in C and Java
