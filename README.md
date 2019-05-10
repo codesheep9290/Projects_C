@@ -1,2 +1,4 @@
-# Projects_C
-School projects written in C
+# SchoolProjects
+School assignments and projects 
+Java
+C
